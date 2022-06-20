@@ -1,0 +1,4 @@
+pandas==1.4.2
+numpy==1.19.5
+nltk==3.7
+scikit-Learn==1.1.1
